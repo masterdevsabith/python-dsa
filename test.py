@@ -1,5 +1,4 @@
-a = True
-b = True
+num = [1, 2, 3, 4, 5]
 
-print(a and b)
-print(a & b)
+min_value = num.pop(3)
+print(min_value)
